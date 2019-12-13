@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\drozd\documents\visual studio 2015\projects\ds\bicriteria path\pspp\source\source.cpp(80): warning C4018: '<': signed/unsigned mismatch
+c:\users\drozd\documents\visual studio 2015\projects\ds\bicriteria path\pspp\source\source.cpp(103): warning C4018: '<': signed/unsigned mismatch
+c:\users\drozd\documents\visual studio 2015\projects\ds\bicriteria path\pspp\source\source.cpp(128): warning C4018: '<': signed/unsigned mismatch
+c:\users\drozd\documents\visual studio 2015\projects\ds\bicriteria path\pspp\source\source.cpp(191): warning C4018: '<': signed/unsigned mismatch
+  Source.vcxproj -> C:\Users\drozd\Documents\Visual Studio 2015\Projects\DS\BiCriteria Path\PSPP\Debug\Source.exe
+  Source.vcxproj -> C:\Users\drozd\Documents\Visual Studio 2015\Projects\DS\BiCriteria Path\PSPP\Debug\Source.pdb (Full PDB)
